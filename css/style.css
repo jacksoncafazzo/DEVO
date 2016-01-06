@@ -1,3 +1,14 @@
 .floater {
   float: right;
 }
+.sidebar {
+  background-color: #ffff66;
+  float:left;
+  width:20%;
+}
+h1 {
+  text-align: center;
+  background-color: #0000ff;
+  color: white;
+  text-shadow: 2px 2px black;
+}
